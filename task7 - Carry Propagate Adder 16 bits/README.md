@@ -1,0 +1,1 @@
+![task7](../img/task7.PNG)
